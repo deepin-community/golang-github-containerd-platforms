@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-containerd-platforms (0.2.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload for testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 14 Aug 2024 02:20:30 +0800
+
+golang-github-containerd-platforms (0.2.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1077569)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 30 Jul 2024 12:36:40 +0800
